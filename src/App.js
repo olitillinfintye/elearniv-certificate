@@ -35,7 +35,7 @@ class App extends Component {
         <div id="downloadWrapper" ref={this.certificateWrapper}>
           <div id="certificateWrapper">
             <p>{this.state.Name}</p>
-            <img src="https://i.imgur.com/Toz3PUWh.png" alt="Certificate" />
+            <img src="https://github.com/olitillinfintye/elearniv-certificate/assets/64665268/66044b36-3b93-4a0e-9c22-e49567275388" alt="Certificate" />
           </div>
         </div>
       </div>
